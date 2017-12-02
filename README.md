@@ -29,7 +29,7 @@ Start the Docker containers:
 docker-compose up
 ```
 
-this starts a Nginx and a Node.js containers. Nginx is reverser proxy
+this starts Nginx and Node.js containers. Nginx is reverser proxy
 passing requests to the Node.js server.
 
 ## What Next
