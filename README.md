@@ -22,7 +22,7 @@ cd node-env
 
 Start the Docker containers:
 
-> Running this step for the time, Docker builds the container images.
+> Running this step for the first time, Docker builds the container images.
 > This process can take a while.
 
 ```
