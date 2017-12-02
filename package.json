@@ -1,0 +1,16 @@
+{
+    "name": "node-app",
+    "version": "0.0.0",
+    "description": "A Node.js Application.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "license" : "BSD-3-Clause",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jasonjlock/node-env.git"
+    }
+}
+
